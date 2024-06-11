@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariafoliver
 - 👀 I’m interested in books
-- 🌱 I’m currently learning Java and Web Development (html,css,js)
+- 🌱 I’m currently learning Java and Web Development (HTML,CSS,JS)
 - 😄 Pronouns: she/her
 
 
