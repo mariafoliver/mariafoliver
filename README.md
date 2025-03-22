@@ -28,8 +28,7 @@
   <img width="12" />
   <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="[https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png](https://www.figma.com/community/resource/e892b10a-dc9e-498b-9830-8fc0485ac820/thumbnail)" height="40" alt="figma logo" />
-  <img width="12" />
+
 
 </div>
 
