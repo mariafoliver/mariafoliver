@@ -4,11 +4,8 @@
 
 ###
 
-<p align="left">Meu nome é Maria Fernanda,tenho 23 anos e sou natural do litoral de SP.</p>
 
-###
-
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
