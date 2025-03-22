@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="![image](https://github.com/user-attachments/assets/6c7189dc-f96f-4618-937f-cf1523ae70c4)" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="![image](https://github.com/user-attachments/assets/2f4a37c3-41fe-4033-ac71-27770e4ecec2)" height="40" alt="mysql logo"  />
+  <img src="[![image](https://github.com/user-attachments/assets/2f4a37c3-41fe-4033-ac71-27770e4ecec2)](https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png)" height="40" alt="mysql logo"  />
   <img width="12" />
 
 </div>
